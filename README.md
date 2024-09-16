@@ -1,7 +1,5 @@
 # File Organizer Script
 
-## Description
-
 This Python script automates the organization of files within a specified directory. It scans the directory for files and sorts them into folders based on their file types (extensions). This helps keep your workspace clean and makes it easier to find files.
 
 ## Features
